@@ -7,11 +7,11 @@ Provide an analysis of kickstarter data to gain insight for a crowdfunding campa
 ## Analysis and Challenges
 ### Analysis
 
-Provide the client a table and chart of outcomes based on the kickstarter goals in the theater category. This should help identify a resonable goal amount for a successful campaign.
-![Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
-
 Provide the client a table and chart of outcomes based on when the kickstarter was created in the play sub-category. This should help identify an optimal timeframe to create a successful campaign.
 ![Theater Outcomes vs Launch](resources/Theater_Outcomes_vs_Launch.png)
+
+Provide the client a table and chart of outcomes based on the kickstarter goals in the theater category. This should help identify a resonable goal amount for a successful campaign.
+![Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
 
 ### Challenges
 
